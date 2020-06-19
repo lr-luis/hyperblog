@@ -12,5 +12,6 @@ un blog increíble para el [curso de Git y Gihub](https://platzi.com/cursos/git-
 -  El verdadero amor por las buenas prácticas
 -  Trucos muy locos del profesor
 -  Las personalidades múltiples de Luis
+-  Creado por Luis Team
 
 Y como un recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/curso/git-github/ 'a ver el curso').
